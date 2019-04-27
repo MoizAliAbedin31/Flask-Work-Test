@@ -1,0 +1,17 @@
+{
+  "parameters":
+  {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/flaskapp2",
+    "production_uri":"mysql://root:@localhost/flaskapp2",
+    "fb_url":"https://www.facebook.com/flaskapp1",
+    "tw_url":"https://www.twitter.com/flaskapp1",
+    "gh_url":"https://www.github.com/flaskapp1",
+    "Heading": "Coffee with Coders",
+    "sub_heading": "A blog liked by Programmers",
+    "gmail_user":"moizaliabedin@gmail.com",
+    "gmail_password": "whereismyfemale",
+    "Title" : "Coffee with Coders",
+    "CR" : "Coffee_with_Coders"
+  }
+}
